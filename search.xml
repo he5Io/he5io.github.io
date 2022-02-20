@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>测试</title>
-    <url>/2022/02/19/%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<h1 id="he5Io"><a href="#he5Io" class="headerlink" title="he5Io"></a>he5Io</h1><h2 id="第一篇文章哦"><a href="#第一篇文章哦" class="headerlink" title="第一篇文章哦"></a>第一篇文章哦</h2><p><a href="https://he5io.github.io/">我的博客</a></p>
-]]></content>
-      <categories>
-        <category>汇编语言</category>
-      </categories>
-      <tags>
-        <tag>导航</tag>
-        <tag>分享</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2022/02/19/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -30,43 +17,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>测试2</title>
-    <url>/2022/02/19/%E6%B5%8B%E8%AF%952/</url>
-    <content><![CDATA[<h1 id="typora基本技巧"><a href="#typora基本技巧" class="headerlink" title="typora基本技巧"></a>typora基本技巧</h1><h2 id="常用快捷键"><a href="#常用快捷键" class="headerlink" title="常用快捷键"></a>常用快捷键</h2><p><strong>加粗</strong></p>
-<p><strong>b</strong>*</p>
-<p><em><strong>i</strong></em></p>
-<p><em><strong><u> 常用快捷键</u></strong></em></p>
-<h1 id="第一级标题"><a href="#第一级标题" class="headerlink" title="第一级标题"></a>第一级标题</h1><h2 id="第二级标题"><a href="#第二级标题" class="headerlink" title="第二级标题"></a>第二级标题</h2><h3 id="第三级标题"><a href="#第三级标题" class="headerlink" title="第三级标题"></a>第三级标题</h3><ol>
-<li>C++</li>
-</ol>
-<p>分别达</p>
-<ul>
-<li><p>的我</p>
-</li>
-<li><p>从</p>
-</li>
-<li><p>1e</p>
-</li>
-<li></li>
-<li><p><a href="www.cctv.com">www.cctv1.com</a></p>
-</li>
-</ul>
-<p>$$<br>(a+b)&#x2F;c+root(d)<br>$$</p>
-<p><strong>-[x]</strong></p>
-<p>​    </p>
-<p>​    </p>
-<p>​        </p>
-<p>​    </p>
-<pre><code> ****
-</code></pre>
-<p><strong>code</strong><br>$$<br><br>\mathbf{V}_1\times\mathbf{V}_4 &#x3D; \mathbf{X}_434<br>$$</p>
-<p><a href="https://www.bilibili.com/video/BV1mU4y1j72n">【2021最新版】保姆级Hexo+github搭建个人博客_哔哩哔哩_bilibili</a></p>
-<p><a href="https://www.cnblogs.com/liuqiyun/p/8133904.html">Node.js安装及环境配置之Windows篇 - 刘奇云 - 博客园 (cnblogs.com)</a></p>
-]]></content>
-      <tags>
-        <tag>分享</tag>
-      </tags>
   </entry>
 </search>

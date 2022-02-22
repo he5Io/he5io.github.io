@@ -3,19 +3,10 @@
   <entry>
     <title>1</title>
     <url>/2022/02/22/1/</url>
-    <content><![CDATA[<p><img src="/.xyz//Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220222224422792.png" alt="image-20220222224422792"></p>
+    <content><![CDATA[<p><img src="/2022/02/22/1/Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220222224422792.png" alt="image-20220222224422792"></p>
 ]]></content>
       <tags>
         <tag>432</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2</title>
-    <url>/2022/02/22/2/</url>
-    <content><![CDATA[<p><img src="/.xyz//image-20220222231315491.png" alt="image-20220222231315491"></p>
-]]></content>
-      <tags>
-        <tag>32</tag>
       </tags>
   </entry>
   <entry>
@@ -35,5 +26,14 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>2</title>
+    <url>/2022/02/22/2/</url>
+    <content><![CDATA[<p><img src="/image-20220222231315491.png" alt="image-20220222231315491"></p>
+]]></content>
+      <tags>
+        <tag>32</tag>
+      </tags>
   </entry>
 </search>

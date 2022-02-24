@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>d</title>
+    <url>/2022/02/24/d/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>1</title>
     <url>/2022/02/22/1/</url>
     <content><![CDATA[<p><img src="/2022/02/22/1/Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220222224422792.png" alt="image-20220222224422792"></p>
@@ -26,6 +31,60 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>计算机组成原理（1）</title>
+    <url>/2022/02/23/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/</url>
+    <content><![CDATA[<h1 id="第一章-概述"><a href="#第一章-概述" class="headerlink" title="第一章 概述"></a>第一章 概述</h1><h2 id="1-1-冯·诺依曼结构计算机工作原理及层次结构分析"><a href="#1-1-冯·诺依曼结构计算机工作原理及层次结构分析" class="headerlink" title="1.1 冯·诺依曼结构计算机工作原理及层次结构分析"></a>1.1 冯·诺依曼结构计算机工作原理及层次结构分析</h2><h3 id="1-冯·诺伊曼计算机的工作原理"><a href="#1-冯·诺伊曼计算机的工作原理" class="headerlink" title="1.冯·诺伊曼计算机的工作原理"></a>1.冯·诺伊曼计算机的工作原理</h3><p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220223232307261.png" alt="image-20220223232307261"></p>
+<h3 id="2-冯·诺伊曼计算机的组成（硬件-软件）"><a href="#2-冯·诺伊曼计算机的组成（硬件-软件）" class="headerlink" title="2.冯·诺伊曼计算机的组成（硬件+软件）"></a>2.冯·诺伊曼计算机的组成（硬件+软件）</h3><p>1）硬件系统（总体图）</p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220223232654341.png" alt="image-20220223232654341"></p>
+<p>1）硬件系统 - <strong>运算器</strong></p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220223232747678.png" alt="image-20220223232747678"></p>
+<p>1）硬件系统 - <strong>控制器</strong></p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220223232907598.png" alt="image-20220223232907598"></p>
+<p>1）硬件系统 - <strong>存储器</strong></p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220223232959396.png" alt="image-20220223232959396"></p>
+<p>1）硬件系统 - <strong>输入&#x2F;输出设备</strong></p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220224162304115.png" alt="image-20220224162304115"></p>
+<p>2）硬件与软件系统间的关系</p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220224162705166.png" alt="image-20220224162705166"></p>
+<p>3.计算机的结构层次</p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220224162803126.png" alt="image-20220224162803126"></p>
+<p><strong>透明性概念</strong></p>
+<ul>
+<li>本来存在的事物或属性，从某个角度去看，却好像不存在；</li>
+<li>如硬件的特性对C语言程序设计者而言就具有透明性。</li>
+</ul>
+<p><strong>系统观</strong></p>
+<ul>
+<li>当硬件结构发生变化时要想到可能对软件产生的影响；</li>
+<li>不同类型的软件对硬件有不同的要求；</li>
+<li>编程的CPU硬件相关性，编程应查阅对应CPU的编程手册。</li>
+</ul>
+<p><strong>软&#x2F;硬件的分界线</strong></p>
+<ul>
+<li>分界线在指令架构层；</li>
+<li>分界线即软、硬件的接口，是指令操作硬件的入口；</li>
+<li>指令格式及指令的设计与硬件关联！</li>
+</ul>
+<h2 id="1-2-计算机系统性能评价"><a href="#1-2-计算机系统性能评价" class="headerlink" title="1.2 计算机系统性能评价"></a>1.2 计算机系统性能评价</h2><h3 id="1-非时间指标"><a href="#1-非时间指标" class="headerlink" title="1.非时间指标"></a>1.非时间指标</h3><p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220224164018529.png" alt="image-20220224164018529"></p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220224164046424.png" alt="image-20220224164046424"></p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220224164103463.png" alt="image-20220224164103463"></p>
+<h3 id="2-时间指标"><a href="#2-时间指标" class="headerlink" title="2.时间指标"></a>2.时间指标</h3><p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220224164142232.png" alt="image-20220224164142232"></p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220224164212438.png" alt="image-20220224164212438"></p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220224164247109.png" alt="image-20220224164247109"></p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220224164315843.png" alt="image-20220224164315843"></p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220224164346009.png" alt="image-20220224164346009"></p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220224164357754.png" alt="image-20220224164357754"></p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220224164413927.png" alt="image-20220224164413927"></p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220224164439577.png" alt="image-20220224164439577"></p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220224164455109.png" alt="image-20220224164455109"></p>
+<p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220224164508631.png" alt="image-20220224164508631"></p>
+<h3 id="3-时间指标的应用思考"><a href="#3-时间指标的应用思考" class="headerlink" title="3.时间指标的应用思考"></a>3.时间指标的应用思考</h3><p><img src="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89/image-20220224164615472.png" alt="image-20220224164615472"></p>
+]]></content>
+      <tags>
+        <tag>计算机组成原理</tag>
+      </tags>
   </entry>
   <entry>
     <title>2</title>
